@@ -1,0 +1,10 @@
+.header {
+  background-color: #092e69;
+  color: white;
+  padding-bottom: 0px;
+  /* display: flex;
+  flex-direction: column; */
+  text-align: center;
+  border-bottom: solid thick red;
+  
+};
