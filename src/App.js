@@ -12,7 +12,8 @@ function App() {
       <div>
         <Header />
         <Wrapper>
-          <Route exact path="/" component={Homepage} />
+        <Homepage />
+          {/* <Route exact path="/" component={Homepage} /> */}
         </Wrapper>
       </div>
     </Router>
