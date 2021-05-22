@@ -1,10 +1,14 @@
 .headerStyle {
-  
+  height: 400px;
   padding-bottom: 0px;
   color: #f5426c;
   /* display: flex;
   flex-direction: column; */
   text-align: center;
   margin-bottom: 30px;
+  background-image: url("./headerimg.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	
   
 };
