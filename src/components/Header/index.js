@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css";
-// import headerimg from "./headerimg.jpg";
+import headerimg from "./headerimg.jpg";
 
 //function to create header
 function Header() {
