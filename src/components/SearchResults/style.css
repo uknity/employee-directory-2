@@ -1,3 +1,13 @@
 .empTable {
   margin-left: 100px;
+  margin-top: 50px;
+  width: 90%
+}
+
+.tableRow {
+  width: 90%;
+}
+
+.searchBar {
+  margin-bottom: 50px;
 }

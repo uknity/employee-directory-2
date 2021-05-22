@@ -4,7 +4,7 @@ import React from "react";
 function SearchForm(props) {
   console.log(props);
   return (
-    <form className="form-horizontal searchBar mx-3">
+    <form className="form-horizontal searchBar mx-3 ">
       <div className="form-group">
       <label htmlFor="searchedName">Search by Name:</label>
           <input

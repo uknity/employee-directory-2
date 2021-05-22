@@ -20,7 +20,7 @@ function SearchResults(props) {
                 
               </tr>
             </thead>
-            <tbody>
+            <tbody className="table">
               {props.results.map(employee => (
                 
                 <tr className="employeeRow">

@@ -1,10 +1,10 @@
 .header {
   background-color: #092e69;
-  color: white;
+  color: #f5426c;
   padding-bottom: 0px;
   /* display: flex;
   flex-direction: column; */
   text-align: center;
-  border-bottom: solid thick red;
+  margin-bottom: 30px;
   
 };
