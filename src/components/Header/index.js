@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css";
-import headerImg from "./headerImg.jpg";
+import headerimg from "./headerimg.jpg";
 
 //function to create header
 function Header() {
@@ -9,7 +9,7 @@ function Header() {
 			<div
 				className="jumbotron jumbotron-fluid headerStyle"
 				style={{
-					backgroundImage: `url(${headerImg})`,
+					backgroundImage: `url(${headerimg})`,
 					backgroundSize: "cover",
 					backgroundRepeat: "no-repeat",
 					height: "400px",
