@@ -16,7 +16,7 @@ _____________________________________________________
   - [Questions](#questions)
   - [License](#license)
 ______________________________________________________
-![image](https://user-images.githubusercontent.com/77338531/118402708-1b291380-b639-11eb-8c89-0d876562e660.png)
+![image](https://user-images.githubusercontent.com/77338531/119238653-b75b8a80-bb11-11eb-8f41-49ab099487c6.png)
 
 Github Project URL: https://github.com/uknity/employee-directory-2  
 Deployed Site URL: https://uknity.github.io/employee-directory-2/  
